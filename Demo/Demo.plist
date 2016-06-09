@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>images</key>
+	<array>
+		<string>Demo1</string>
+		<string>Demo2</string>
+		<string>Demo3</string>
+		<string>Demo4</string>
+		<string>Demo5</string>
+		<string>Demo6</string>
+		<string>Demo7</string>
+		<string>Demo8</string>
+		<string>Demo9</string>
+		<string>Demo10</string>
+	</array>
+	<key>messages</key>
+	<array>
+		<string>View available shifts</string>
+		<string>View shifts details &amp; apply</string>
+		<string>Waiting for a reply</string>
+		<string>My Shifts</string>
+		<string>Starting a Shift</string>
+		<string>You’re Tracking</string>
+		<string>Submit for approval</string>
+		<string>Completed shifts</string>
+		<string>Store invitiations</string>
+		<string>Connected Stores</string>
+	</array>
+	<key>descriptions</key>
+	<array>
+		<string>See driver shifts available in your location or another area of your choice</string>
+		<string>Check out the restaurant’s reviews, shift details including opportunities where transport is supplied</string>
+		<string>After you apply for a shift it moves to a ‘pending’ state in your applications list awaiting acceptance from the store</string>
+		<string>Once a shift has been allocated to you it will appear in your “My Shifts” list, awaiting for your shift to start.</string>
+		<string>Selecting a shift will show you all the important details and allow you to start the shift at the right time &amp; place.</string>
+		<string>Tracking begins when you start your shift and stops when you end it.</string>
+		<string>Enter the the number of deliveries you completed and payment will be processed when approved</string>
+		<string>All completed shifts will be listed here with a status indicating if it has been approved, disputed or paid.</string>
+		<string>Stores can invite you to connect so that you can see shifts and runs that are exclusive to “their drivers”</string>
+		<string>A place to view all your connected stores. Once connected a store has the flexibility of paying you direct or via Yello</string>
+	</array>
+</dict>
+</plist>
